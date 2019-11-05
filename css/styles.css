@@ -1,1 +1,39 @@
-
+body{
+    font-family: sans-serif;
+    margin: 10px;
+}
+.tablinks{
+    background-color: #555555;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 20px;
+    width: 20%;
+}
+.tablinks:hover{
+    background: #666666;
+}
+.tabcontent{
+    color: white;
+    display: none;
+    padding: 10px;
+    text-align: center;
+}
+#Bokaro{
+    background-color: #cccccc;
+}
+#Ranchi{
+    background-color: #dddddd;
+}
+#Dhanbad{
+    background-color: #eeeeee;
+}
+#Hazaribagh{
+    background-color: #ffffff;
+}
+#Ramgarh{
+    background-color: #555555;
+}
